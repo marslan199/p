@@ -7,7 +7,10 @@ match a:
     # to print default value use _ 
     case _ if a!=10:
         print(a)
-        
+
     case _ if a>10 and a<20:
         print("BETWEEN 10 AND 20")
+        # its like default case 
+    case _:
+        print(a)
 
