@@ -5,3 +5,7 @@ l.append(7)
 print(l) 
 # to sort array 
 l.sort()
+print(l)
+# to sort in reverse order
+l.sort(reverse=True)
+print(l)
