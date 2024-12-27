@@ -8,3 +8,6 @@ tep[3]="mian"
 tup=tuple(tep)
 print(tup)
 # we can also murge tupples
+tup2 = ("q","trt","tey","tyry")
+merge=tup+tup2
+print(merge)
