@@ -1,6 +1,3 @@
-for i in range(13):
-  
-#     if(i==10):
-#      print ("hell")
-#      continue
-#     print("5 X",i,"=",5*i)
+tep[6]="mian"
+tep=tuple(tep)
+print(tup)
